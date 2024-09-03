@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/franc/OneDrive/Documentos/aaaaaaProgramacion/UE4/MyProject9/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/franc/OneDrive/Documentos/aaaaaaProgramacion/UE4/MyProject9/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/franc/OneDrive/Documentos/aaaaaaProgramacion/UE4/MyProject9/Content/Estructura/Gamemode/gamemode.uasset",
+				"C:/Users/franc/OneDrive/Documentos/aaaaaaProgramacion/UE4/MyProject9/Content/Estructura/Playercontroller/Playercontroller.uasset",
 				"C:/Users/USUARIO/OneDrive/Escritorio/UnrealGrupo3/MyProject9/Content/StarterContent/Materials/M_AssetPlatform.uasset"
 			]
 		}
